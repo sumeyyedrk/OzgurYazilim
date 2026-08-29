@@ -12,6 +12,7 @@ public class Fal {
          System.out.println("Kariyer hayatında değişiklik olacak.");
         }
         else if(sayı==3){
+         System.out.println("Her şey çok güzel olacak")
 
         }
         else if(sayı==4){
